@@ -150,7 +150,7 @@
           <div class="form-grid">
             <div class="input-group">
               <label data-i18n="initialPortfolioLabel">Initial Portfolio (€)</label>
-              <input id="initialPortfolio" type="text" value="800000" min="0" required>
+              <input id="initialPortfolio" type="text" value="750000" min="0" required>
             </div>
             <div class="input-group">
               <label data-i18n="annualInvestmentLabel">Annual Investment (€)</label>
